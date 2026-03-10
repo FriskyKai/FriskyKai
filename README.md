@@ -1,1 +1,1 @@
-<div align="center">![Анимированный котик](maxwell.gif)</div>
+<div align="center">[Анимированный котик](maxwell.gif)</div>
